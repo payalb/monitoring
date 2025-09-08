@@ -3,6 +3,7 @@ Commands to create a pod, inspect it, list all pods, delete pod check logs ,crea
 Secret map, config map: which to use when
 Volumes: why to use, pvc 
 Types of deployment strategies: Rolling update, blue green
+what's a maniifest
 
 Docker:
 How to Pass env variables at time of running container, syntax of dockerfile: from, env, copy, cmd, entrypoint
