@@ -22,4 +22,4 @@ Jenkins:
 How to create a pipeline, basic process understanding for maven build, create image, push to docker hub, how to run steps parallelly, post steps (success, failure always), stages,
 exception handling in stage 
 
-
+Some questions on gitlab ci/cd, new relic, terraform ,fluxcd, github actions (Will cover tomorrow)
